@@ -29,9 +29,7 @@ A simple Next.js + React + TypeScript + Tailwind CSS + Supabase project.
 Use the project URL and client-side anon/publishable key. Do not put a Supabase secret/service-role key in the browser.
 
 ## Vercel
-```bash
 https://live-qa-polling-wlo4-ozgcswya1-pradeepa2401.vercel.app
-```
 
 ## Note
 The demo poll data is intentionally kept in the frontend in this starter version. Questions and votes are connected to Supabase. The poll tables/API can be added next if required by your internship assignment.
